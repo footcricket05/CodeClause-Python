@@ -1,12 +1,12 @@
 # Random Password Generator
-This is a simple program that generates a random password of a specified length using uppercase and lowercase letters, digits, and special characters. The program uses the random module in Python to generate random characters and string module to get the list of characters to choose from.
+This is a simple program that generates a random password of a specified length using uppercase and lowercase letters, digits, and special characters. The program uses the random module in Python to generate random characters and `string` module to get the list of characters to choose from.
 
 The program asks the user to enter the length of the password and then generates a password of that length by randomly choosing characters from the list of characters. The generated password is displayed to the user.
 
 ## How to use
 To use this program, you need to have Python installed on your system.
 
-1. Clone the repository or download the CodeClause_Random Password Generator.py file.
+1. Clone the repository or download the `CodeClause_Random Password Generator.py` file.
 
 2. Open the terminal or command prompt and navigate to the directory where the file is located.
 
