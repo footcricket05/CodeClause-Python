@@ -10,8 +10,11 @@ This repository contains the code for the projects completed during the Data Sci
   <li> Random Password Generator </li>
   <p><a href="https://github.com/footcricket05/CodeClause-Python/blob/main/CodeClause_Random%20Password%20Generator/Random%20Password%20Generator.py">code</a></p>
   
-  <li> Spped Typing Test </li>
+  <li> Typing Speed Test </li>
   <p><a href="https://github.com/footcricket05/CodeClause-Python/blob/main/CodeClause_Typing%20Speed%20Test/Typing%20Speed%20Test.py">code</a></p>
+  
+  <li> Library Management System </li>
+  <p><a href="https://github.com/footcricket05/CodeClause-Python/blob/main/CodeClause_Random%20Password%20Generator/Random%20Password%20Generator.py">code</a></p>
 </ol>
 
 All projects include the code and necessary datasets used for training and testing. Please refer to the individual project folders for more details.
