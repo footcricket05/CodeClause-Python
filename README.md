@@ -2,7 +2,7 @@
 
 ## Python Internship Projects
 
-This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
+This repository contains the code for the projects completed during the Python Internship at CodeClause. The projects are:
 <ol>
   <li> Calculator </li>
   <p><a href="https://github.com/footcricket05/CodeClause-Python/blob/main/CodeClause_Calculator/Calculator.py">code</a></p>
